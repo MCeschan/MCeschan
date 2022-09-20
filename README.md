@@ -16,10 +16,11 @@
   
 ### :woman_technologist: About me :
   ✨ I am a Full Stack Developer oriented to Front-End development from Argentina. 🎨  
-
+  
+  I love creating solutions thinking about the contribution I make and focusing on the user and the customer experience 💜🌈
 - 🎓 &nbsp; Graduated as Full Stack Developer of Henry Academy.
 - 💼 &nbsp; I'm currently looking for work and working on my portfolio.
-- 🙌 &nbsp; Exploring new technologies and developing new projects.
+- 💻 &nbsp; Exploring new technologies and developing new projects.
 - 🌱 &nbsp; Learning more about UX/UI design, SCRUM, React and different frameworks.
 <h3>Tech Stack</h3>
 
@@ -55,7 +56,7 @@
 ## :pushpin: My projects
 
 <a href="https://pi-pokemon-xi-jet.vercel.app/" target="_blank" rel="noreferrer"><h3>PokeWiki🔍</h3></a>
-<p>It's my first proyect, is a SPA about pokemons entirely developed by me. You can filter the pokemons, sort them and also create one by yourself. The page consumes data from an API and is where the information about the pokemons comes from, also the ones that are created cames from a database SQL.</p>
+<p>It's my first project, is a SPA about pokemons entirely developed by me. You can filter the pokemons, sort them and also create one by yourself. The page consumes data from an API and is where the information about the pokemons comes from, also the ones that are created cames from a database SQL.</p>
 <div align="row" >
       <img src="https://user-images.githubusercontent.com/98399167/191356611-312d349f-e747-48f6-861f-28c9c87f970a.jpg" width="500" height="250"  />
       <img src="https://user-images.githubusercontent.com/98399167/191356670-61c5ce93-b212-4998-b6b1-483700ca15ca.jpg" width="500" height="250"  />
@@ -81,3 +82,15 @@
   <img src="https://user-images.githubusercontent.com/98399167/191360022-7f726e79-84db-49f2-abcf-af26924052cb.jpg" width="500" height="250"  />
 </div>
 
+## 📫 CONTACT ME
+<p>
+    <a href="https://martinaceschan@gmail.com">
+      <img align="center" src="https://user-images.githubusercontent.com/76783198/182482940-c4a2a044-de93-4450-b354-9628cbb175c9.svg"/>
+      martinaceschan@gmail.com
+    </a>    
+    <br>
+    <a href="https://www.linkedin.com/in/martina-ceschan-969469242/">
+      <img align="center" src="https://user-images.githubusercontent.com/76783198/182481396-19c89e94-f3ba-4e33-9df4-f5b7a094cf8f.svg"/>
+      Martina Ceschan
+    </a>
+<p/>
