@@ -57,8 +57,15 @@
 
 <a href="https://pi-pokemon-xi-jet.vercel.app/" target="_blank" rel="noreferrer"><h3>PokeWiki</h3></a>
 <p>It's my first proyect, is a SPA about pokemons entirely developed by me. You can filter the pokemons, sort them and also create one by yourself. The page consumes data from an API and is where the information about the pokemons comes from, also the ones that are created cames from a database SQL.</p>
+<div align="row" >
+      <img src="https://user-images.githubusercontent.com/98399167/191356611-312d349f-e747-48f6-861f-28c9c87f970a.jpg" width="430" height="250"  />
+      <img src="https://user-images.githubusercontent.com/98399167/191356670-61c5ce93-b212-4998-b6b1-483700ca15ca.jpg" width="430" height="250"  />
+      <img src="https://user-images.githubusercontent.com/98399167/191356700-e3de5f80-5204-44ad-b222-4862648e4245.jpg" width="430" height="250"  />
+      <img src="https://user-images.githubusercontent.com/98399167/191356666-f0a0c747-7608-4ffa-8ae4-feee04853c3b.jpg" width="430" height="250"  />
+</div>
 
 <br>
 
 <a href="https://pf-wellness-iota.vercel.app/" target="_blank" rel="noreferrer"><h3>WELLNESS</h3></a>
 <p>This is an application that we developed in group for the final proyect in Henry's Bootcamp. It's about a page where you can take dates with differents doctors in a hospital, also, in the patient panel view, you can modify your profile once you're login and you can cancel the dates if you have to. The page have two more panels of control, one for the doctor side and one for the adiministrator, they can manage differents things too, like holidays, schedules, statics and more. </p>
+
