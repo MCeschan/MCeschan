@@ -17,11 +17,10 @@
 ### :woman_technologist: About me :
   ✨ I am a Full Stack Developer oriented to Front-End development from Argentina. 🎨  
 
-- 🤔 &nbsp; Exploring new technologies and developing new projects.
 - 🎓 &nbsp; Graduated as Full Stack Developer of Henry Academy.
-- 💼 &nbsp; I'm currently looking for work.
-- 🌱 &nbsp; Learning more about SCRUM, React and different frameworks.
-- ✍️ &nbsp; I'm currently working on a group project.
+- 💼 &nbsp; I'm currently looking for work and working on my portfolio.
+- 🙌 &nbsp; Exploring new technologies and developing new projects.
+- 🌱 &nbsp; Learning more about UX/UI design, SCRUM, React and different frameworks.
 <h3>Tech Stack</h3>
 
 <p>
@@ -53,19 +52,32 @@
 
 &nbsp;
 
-## :pushpin: My proyects
+## :pushpin: My projects
 
-<a href="https://pi-pokemon-xi-jet.vercel.app/" target="_blank" rel="noreferrer"><h3>PokeWiki</h3></a>
+<a href="https://pi-pokemon-xi-jet.vercel.app/" target="_blank" rel="noreferrer"><h3>PokeWiki🔍</h3></a>
 <p>It's my first proyect, is a SPA about pokemons entirely developed by me. You can filter the pokemons, sort them and also create one by yourself. The page consumes data from an API and is where the information about the pokemons comes from, also the ones that are created cames from a database SQL.</p>
 <div align="row" >
-      <img src="https://user-images.githubusercontent.com/98399167/191356611-312d349f-e747-48f6-861f-28c9c87f970a.jpg" width="430" height="250"  />
-      <img src="https://user-images.githubusercontent.com/98399167/191356670-61c5ce93-b212-4998-b6b1-483700ca15ca.jpg" width="430" height="250"  />
-      <img src="https://user-images.githubusercontent.com/98399167/191356700-e3de5f80-5204-44ad-b222-4862648e4245.jpg" width="430" height="250"  />
-      <img src="https://user-images.githubusercontent.com/98399167/191356666-f0a0c747-7608-4ffa-8ae4-feee04853c3b.jpg" width="430" height="250"  />
+      <img src="https://user-images.githubusercontent.com/98399167/191356611-312d349f-e747-48f6-861f-28c9c87f970a.jpg" width="500" height="250"  />
+      <img src="https://user-images.githubusercontent.com/98399167/191356670-61c5ce93-b212-4998-b6b1-483700ca15ca.jpg" width="500" height="250"  />
+      <img src="https://user-images.githubusercontent.com/98399167/191356700-e3de5f80-5204-44ad-b222-4862648e4245.jpg" width="500" height="250"  />
+      <img src="https://user-images.githubusercontent.com/98399167/191356666-f0a0c747-7608-4ffa-8ae4-feee04853c3b.jpg" width="500" height="250"  />
 </div>
 
 <br>
 
-<a href="https://pf-wellness-iota.vercel.app/" target="_blank" rel="noreferrer"><h3>WELLNESS</h3></a>
-<p>This is an application that we developed in group for the final proyect in Henry's Bootcamp. It's about a page where you can take dates with differents doctors in a hospital, also, in the patient panel view, you can modify your profile once you're login and you can cancel the dates if you have to. The page have two more panels of control, one for the doctor side and one for the adiministrator, they can manage differents things too, like holidays, schedules, statics and more. </p>
+<a href="https://pf-wellness-iota.vercel.app/" target="_blank" rel="noreferrer"><h3>WELLNESS🏥🩺</h3></a> 
+<p>This is a web page that we developed in group for the final proyect in Henry's Bootcamp. It's about a physical rehabilitation clinic where you can take appointments online with different professionals. We included a login, a payment platform, panels for patient, doctor and administrator, a chatbot and other features. </p>
+<div align="row" >
+      <img src="https://user-images.githubusercontent.com/98399167/191359965-68e0f7ba-5e6a-4359-bb1d-b2f7a3a195b8.jpg" width="500" height="250"  />
+  <h4>Make an appointment with a professional and pay for it 🕝💳</h4>
+      <img src="https://user-images.githubusercontent.com/98399167/191360030-4d2e975a-cfca-49a4-b222-91410171a887.jpg" width="500" height="250"  />
+      <img src="https://user-images.githubusercontent.com/98399167/191360079-97031dd5-c713-4192-b9df-9a7257a049b6.jpg" width="500" height="250"  />
+      <img src="https://user-images.githubusercontent.com/98399167/191360007-5276068a-6043-4503-99a3-fbfa2e32d2c2.jpg" width="500" height="250"  />
+  <h4>👨‍⚕️👩‍⚕️Doctor's view (the professional can modify his profile, also he can see his appointments, his patients and set absences)</h4>
+  <img src="https://user-images.githubusercontent.com/98399167/191360026-b568da5c-3fd8-45f0-8b52-9324f7b64b40.jpg" width="500" height="250"  />
+  <h4>👔💻Admin view (he can see dynamic statistics, modify user data and manage different things)</h4>
+  <img src="https://user-images.githubusercontent.com/98399167/191360013-554658ba-497c-402d-8ba5-eaf60995547f.jpg" width="500" height="250"  />
+  <img src="https://user-images.githubusercontent.com/98399167/191360020-8a6ba7fa-3d7d-47b4-a274-0202cd51a3b4.jpg" width="500" height="250"  />
+  <img src="https://user-images.githubusercontent.com/98399167/191360022-7f726e79-84db-49f2-abcf-af26924052cb.jpg" width="500" height="250"  />
+</div>
 
