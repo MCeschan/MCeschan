@@ -16,12 +16,12 @@
   
 ### :woman_technologist: About me :
   ✨ I am a Full Stack Developer oriented to Front-End development from Argentina. 🎨  
-  
+  <a href="https://martinaceschan.vercel.app/" target="_blank" rel="noreferrer"><h3>💼 My Portfolio</h3></a> 
   I love creating solutions thinking about the contribution I make and focusing on the user and the customer experience 💜🌈
 - 🎓 &nbsp; Graduated as Full Stack Developer of Henry Academy.
-- 💼 &nbsp; I'm currently looking for work and working on my portfolio.
-- 💻 &nbsp; Exploring new technologies and developing new projects.
-- 🌱 &nbsp; Learning more about UX/UI design, SCRUM, React and different frameworks.
+- 💻 &nbsp; I'm currently looking for work.
+- 🙌 &nbsp; Exploring new technologies and developing new projects.
+- 🌱 &nbsp; Learning more about UX/UI design, SCRUM and React.
 <h3>Tech Stack</h3>
 
 <p>
