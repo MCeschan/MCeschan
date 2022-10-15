@@ -8,15 +8,16 @@
    <a  href="mailto:martinaceschan@gmail.com" target="blank">
    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" alt="Gmail"/>
    </a>
+    
    </div>
+  
  </div>
   
  
-  
-  
+  💼<a href="https://martinaceschan.vercel.app/" target="_blank"> <img src="https://img.shields.io/badge/-Portfolio-yellowgreen" alt="Portfolio" width="80"/> </a>
 ### :woman_technologist: About me :
   ✨ I am a Full Stack Developer oriented to Front-End development from Argentina. 🎨  
-  <a href="https://martinaceschan.vercel.app/" target="_blank" rel="noreferrer"><h3>💼 My Portfolio</h3></a> 
+ 
   I love creating solutions thinking about the contribution I make and focusing on the user and the customer experience 💜🌈
 - 🎓 &nbsp; Graduated as Full Stack Developer of Henry Academy.
 - 💻 &nbsp; I'm currently looking for work.
