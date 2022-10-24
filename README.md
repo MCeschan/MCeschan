@@ -57,7 +57,7 @@
 ## :pushpin: My projects
 
 <a href="https://pi-pokemon-xi-jet.vercel.app/" target="_blank" rel="noreferrer"><h3>PokeWiki🔍</h3></a>
-<p>It's my first project, is a SPA (Single Page Application) about pokemons. The information is brought from an API ("pokeapi") and from it you can, among other things: find pokemons, filter and/or sort them, create your own pokemons.</p>
+<p>It's my first project, it's a SPA (Single Page Application) about pokemons. The information is brought from an API ("pokeapi") and from it you can, among other things: find pokemons, filter and/or sort them, create your own pokemons.</p>
 <div align="row" >
       <img src="https://user-images.githubusercontent.com/98399167/191356611-312d349f-e747-48f6-861f-28c9c87f970a.jpg" width="500" height="250"  />
       <img src="https://user-images.githubusercontent.com/98399167/191356670-61c5ce93-b212-4998-b6b1-483700ca15ca.jpg" width="500" height="250"  />
