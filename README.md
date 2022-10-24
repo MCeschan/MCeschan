@@ -58,29 +58,40 @@
 
 <a href="https://pi-pokemon-xi-jet.vercel.app/" target="_blank" rel="noreferrer"><h3>PokeWiki🔍</h3></a>
 <p>It's my first project, it's a SPA (Single Page Application) about pokemons. The information is brought from an API ("pokeapi") and from it you can, among other things: find pokemons, filter and/or sort them, create your own pokemons.</p>
+<p>
+REPO: https://github.com/MCeschan/PI-Pokemon
+</br>
+DEPLOY: <a href="https://pi-pokemon-xi-jet.vercel.app/" target="_blank" rel="noreferrer">Link</a></p>
 <div align="row" >
       <img src="https://user-images.githubusercontent.com/98399167/191356611-312d349f-e747-48f6-861f-28c9c87f970a.jpg" width="500" height="250"  />
       <img src="https://user-images.githubusercontent.com/98399167/191356670-61c5ce93-b212-4998-b6b1-483700ca15ca.jpg" width="500" height="250"  />
       <img src="https://user-images.githubusercontent.com/98399167/191356700-e3de5f80-5204-44ad-b222-4862648e4245.jpg" width="500" height="250"  />
       <img src="https://user-images.githubusercontent.com/98399167/191356666-f0a0c747-7608-4ffa-8ae4-feee04853c3b.jpg" width="500" height="250"  />
 </div>
-REPO: https://github.com/MCeschan/PI-Pokemon
+
 <br>
 <a href="https://memory-game-rosy.vercel.app/" target="_blank" rel="noreferrer"><h3>⚔️Game of Thrones memory game 🤔🧠</h3></a>
 <p>This is a classic matching game that require players to match similar elements, in this case characters of Game of Thrones. Each person turns over two cards at a time, with the goal of turning over a matching pair, by using their memory. Participants need to find a match in less than 12 turns. If you do that... we have a Winner!🙌</p>
+<p>
+REPO: https://github.com/MCeschan/Memory-Game
+</br>
+DEPLOY: <a href="https://memory-game-rosy.vercel.app/" target="_blank" rel="noreferrer">Link</a></p>
 <div align="row" >
       <img src="https://user-images.githubusercontent.com/98399167/197539887-5b24aa7b-a21a-411d-abb6-7f4d1b71e4fb.png" width="500" height="250"  />
       <img src="https://user-images.githubusercontent.com/98399167/197540960-b7fb9b40-a704-4ba0-9989-acbe31c0d44f.png" width="500" height="250"  />
       <img src="https://user-images.githubusercontent.com/98399167/197540972-ba2f0952-1b1e-45a6-95e8-2e80eaed2401.png" width="500" height="250"  />
       <img src="https://user-images.githubusercontent.com/98399167/197540967-e8cfd40f-ad92-4216-9360-1f4f474016c3.png" width="500" height="250"  />
 </div>
-REPO: https://github.com/MCeschan/Memory-Game
+
 <br>
 
 <a href="https://pf-wellness-iota.vercel.app/" target="_blank" rel="noreferrer"><h3>WELLNESS🏥🩺</h3></a> 
 <p>This is a web page that we developed in group for the final proyect in Henry's Bootcamp. It's about a physical rehabilitation clinic where you can take appointments online with different professionals. We included a login, a payment platform, panels for patient, doctor and administrator, a chatbot and other features. </p>
 
-<p>REPO: https://github.com/donlluque/PF-Wellness </p>
+<p>REPO: https://github.com/donlluque/PF-Wellness 
+</br>
+DEPLOY: <a href="https://pf-wellness-iota.vercel.app/" target="_blank" rel="noreferrer">Link</a></p>
+
 
 <div align="row" >
       <img src="https://user-images.githubusercontent.com/98399167/191359965-68e0f7ba-5e6a-4359-bb1d-b2f7a3a195b8.jpg" width="500" height="250"  />
