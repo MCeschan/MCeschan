@@ -59,6 +59,7 @@
 <a href="https://pi-pokemon-xi-jet.vercel.app/" target="_blank" rel="noreferrer"><h3>PokeWiki🔍</h3></a>
 <p>It's my first project, it's a SPA (Single Page Application) about pokemons. The information is brought from an API ("pokeapi") and from it you can, among other things: find pokemons, filter and/or sort them, create your own pokemons.</p>
 <p>
+more details in 👇</br>
 REPO: https://github.com/MCeschan/PI-Pokemon
 </br>
 DEPLOY: <a href="https://pi-pokemon-xi-jet.vercel.app/" target="_blank" rel="noreferrer">Link</a></p>
@@ -73,6 +74,7 @@ DEPLOY: <a href="https://pi-pokemon-xi-jet.vercel.app/" target="_blank" rel="nor
 <a href="https://memory-game-rosy.vercel.app/" target="_blank" rel="noreferrer"><h3>⚔️Game of Thrones memory game 🤔🧠</h3></a>
 <p>This is a classic matching game that require players to match similar elements, in this case characters of Game of Thrones. Each person turns over two cards at a time, with the goal of turning over a matching pair, by using their memory. Participants need to find a match in less than 12 turns. If you do that... we have a Winner!🙌</p>
 <p>
+more details in 👇</br>
 REPO: https://github.com/MCeschan/Memory-Game
 </br>
 DEPLOY: <a href="https://memory-game-rosy.vercel.app/" target="_blank" rel="noreferrer">Link</a></p>
@@ -88,7 +90,9 @@ DEPLOY: <a href="https://memory-game-rosy.vercel.app/" target="_blank" rel="nore
 <a href="https://pf-wellness-iota.vercel.app/" target="_blank" rel="noreferrer"><h3>WELLNESS🏥🩺</h3></a> 
 <p>This is a web page that we developed in group for the final proyect in Henry's Bootcamp. It's about a physical rehabilitation clinic where you can take appointments online with different professionals. We included a login, a payment platform, panels for patient, doctor and administrator, a chatbot and other features. </p>
 
-<p>REPO: https://github.com/donlluque/PF-Wellness 
+<p>
+more details in 👇</br>
+REPO: https://github.com/donlluque/PF-Wellness 
 </br>
 DEPLOY: <a href="https://pf-wellness-iota.vercel.app/" target="_blank" rel="noreferrer">Link</a></p>
 
