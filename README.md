@@ -71,8 +71,8 @@ DEPLOY: <a href="https://pi-pokemon-xi-jet.vercel.app/" target="_blank" rel="nor
 </div>
 
 <br>
-<a href="https://memory-game-rosy.vercel.app/" target="_blank" rel="noreferrer"><h3>⚔️Game of Thrones memory game 🤔🧠</h3></a>
-<p>This is a classic matching game that require players to match similar elements, in this case characters of Game of Thrones. Each person turns over two cards at a time, with the goal of turning over a matching pair, by using their memory. Participants need to find a match in less than 12 turns. If you do that... we have a Winner!🙌</p>
+<a href="https://memory-game-rosy.vercel.app/" target="_blank" rel="noreferrer"><h3>⚔️Game of Thrones Memory Game 🤔🧠</h3></a>
+<p>This is a classic matching game that require players to match similar elements, in this case characters of Game of Thrones. The player turns over two cards at a time, with the goal of turning over a matching pair, by using their memory. Participants must find all matches in less than 12 turns. If you do that... we have a Winner!🙌</p>
 <p>
 more details in 👇</br>
 REPO: https://github.com/MCeschan/Memory-Game
